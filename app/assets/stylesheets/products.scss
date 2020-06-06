@@ -1,0 +1,36 @@
+// Place all the styles related to the Products controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+.price,
+.installments{
+    color: #7a1315 !important;
+    font-size: 16px;;
+    font-weight: bold;
+    display: block;
+}
+
+.product{
+    text-align: center;
+}
+
+.product img{
+    max-width: 100%;
+}
+
+.product h5{
+    font-weight: bold;
+}
+
+.product h5 {
+    color: #111;    
+}
+
+.product h5:hover{
+    color: #666;    
+}
+
+a:hover{
+    background-color: transparent !important;
+}
