@@ -1,6 +1,5 @@
 Rails.application.configure do
 
-  config.secret_key_base = 21b5e770fef1c10d40f69d82ca47ccb256711fd5fbc8d906ee872d329939277c4df3e1235ba66822df5cb67a417fc3db720a96decfa9cf4033d01e2e7b9e8004
   # Settings specified here will take precedence over those in config/application.rb.
 
   # Code is not reloaded between requests.
