@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.14.0"
 
-set :application, "my_app_name"
-set :repo_url, "git@github.com:JBNascimento/desafio-ruby.git"
+set :application, "marketplace"
+set :repo_url, "git@github.com:JBNascimento/marketplace.git"
 
 
 # Deploy to the user's home directory
